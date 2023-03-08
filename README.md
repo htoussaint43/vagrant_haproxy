@@ -19,7 +19,7 @@ This is the toolset I used to present on load balancers at University of Nebrask
 # Prerequisites
 1.  Install [Vagrant](http://www.vagrantup.com/downloads.html)
 2.  Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-3.  Either clone this repo with ``` git clone https://github.com/kserge2001/vagrant-haproxy.git ``` or just download the [current zip file](https://github.com/justintime/vagrant-haproxy-demo/archive/master.zip) and extract it in an empty directory.
+3.  Either clone this repo with ``` git clone https://github.com/kserge2001/vagrant-haproxy.git ``` or just download the [current zip file](https://github.com/kserge2001/vagrant-haproxy/archive/refs/heads/master.zip) and extract it in an empty directory.
 
 # Getting started
 1.  Open 3 terminal windows -- one for each host.  Change to the directory containing the Vagrantfile from step 3 above.
